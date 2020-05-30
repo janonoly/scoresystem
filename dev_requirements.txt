@@ -1,0 +1,4 @@
+django==3.0
+selenium==3.0
+chromedriver==2.24
+pytest==5.4
